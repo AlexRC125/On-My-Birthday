@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 3rem;
+  width: 4rem;
   overflow: hidden;
   height: 3rem;
   background-size: 300% 300%;
@@ -167,6 +167,10 @@ strong {
   }
 }
 h1{
+  text-align: center;
+}
+
+p{
   text-align: center;
 }
 
